@@ -1,2 +1,0 @@
-print("Welcome to landing-page-design")
-print("This is the main program file.")
